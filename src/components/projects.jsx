@@ -26,7 +26,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/packer.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Amazon Machine Image</a></h3>
@@ -39,7 +39,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/lamda.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Serverless Computing: AWS Lambda</a></h3>
@@ -52,7 +52,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/cloudformation.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">AWS Cloud Infrastructure: Automation</a></h3>
@@ -65,7 +65,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/spring.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Event Booking Portal</a></h3>
@@ -78,7 +78,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/music.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Music Mood Analyzer</a></h3>
