@@ -8,21 +8,18 @@ export default class Projects extends Component {
 					<div className="colorlib-narrow-content">
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-								<span className="heading-meta">My Work</span>
 								<h2 className="colorlib-heading animate-box">Recent Projects</h2>
 							</div>
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/aws.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="work.html">Billing and Invocing Web Services - AWS Deployment</a></h3>
+											<span>Technologies : Java, Spring Boot, Amazon S3, SQS, SNS, DynamoDB, Amazon RDS, EC2, CircleCI, AWS CodDeploy</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="https://github.com/suthardhaval24/webapp"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -32,12 +29,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Amazon Machine Image</a></h3>
+											<span>Technologies: Hashicorp Packer, Shell(Bash) Script, CircleCI, GIT </span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/suthardhaval24/ami"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -47,12 +42,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Serverless Computing: AWS Lambda</a></h3>
+											<span>Technologies: AWS Lambda, CircleCI, DynamoDB, Java, SQS, SNS</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/suthardhaval24/serverless"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -62,12 +55,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="work.html">AWS Cloud Infrastructure: Automation</a></h3>
+											<span>Technologies: CloudFormation, Terraform, Shell Scripting, Git</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/suthardhaval24/infrastructure"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -77,12 +68,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Event Booking Portal</a></h3>
+											<span>Technologies: Spring MVC, Java, Hibernate, JDBC, MYSQL, HTML, CSS, JavaScript</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/suthardhaval24/EventBookingSystem"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -92,12 +81,10 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Music Mood Analyzer</a></h3>
+											<span>Technologies: Flask, REST APIs, Python, IBM NLP toolkit, Google Traslator APIs, Heroku, Docker</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/suthardhaval24/MusicMoodAnalyzer"><i class="icon-github"></i></a></span>
 											</p>
 										</div>
 									</div>
@@ -106,7 +93,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="https://github.com/suthardhaval24" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>

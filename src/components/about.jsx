@@ -11,8 +11,7 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Us</span>
-                                            <h2 className="colorlib-heading">Who Am I?</h2>
+                                            <h2 className="colorlib-heading">About Me</h2>
                                             <p>I am currently pursuing a Master's in Information Systems at Northeastern University, Boston specializing in Entrprise/Web Applications and Back-End Development. Since joining NEU,  I have greatly enhanced my knowledge of fundamental concepts such as Object-oriented Design, Database Desing, Application Development, and sharpened my programming skills by taking Data Structures and algorithms course. I have also worked on diversifying my knowledge and skills set by taking courses on Web Development, Cloud Computing, and Data Science and developed projects like an event booking system, Deploying artifacts into <a href="https://suthardhaval24.github.io/AWS_DevOps/">AWS cloud using CI/CD</a> and <a href="https://musicmoodanalyzer.herokuapp.com/" >Music mood analyzer</a>.</p>
                                         </div>
                                     </div>
@@ -25,8 +24,7 @@ export default class About extends Component {
                     <div className="colorlib-narrow-content">
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                                <span className="heading-meta">What I do?</span>
-                                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                                <h2 className="colorlib-heading">Expertise</h2>
                             </div>
                         </div>
                         <div className="row row-pt-md">
