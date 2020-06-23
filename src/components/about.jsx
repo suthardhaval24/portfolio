@@ -12,7 +12,7 @@ export default class About extends Component {
                                     <div className="col-md-12">
                                         <div className="about-desc">
                                             <h2 className="colorlib-heading">About Me</h2>
-                                            <p>I am currently pursuing a Master's in Information Systems at Northeastern University, Boston specializing in Entrprise/Web Applications and Back-End Development. Since joining NEU,  I have greatly enhanced my knowledge of fundamental concepts such as Object-oriented Design, Database Desing, Application Development, and sharpened my programming skills by taking Data Structures and algorithms course.  I have proven expertise in Software / Full stack web development, micro-services, server-less computing and cloud applications.</p>
+                                            <p>I am currently pursuing a Master's in Information Systems at Northeastern University, Boston specializing in Enterprise/Web Applications and Back-End Development. Since joining NEU,  I have greatly enhanced my knowledge of fundamental concepts such as Object-oriented Design, Database Desing, Application Development, and sharpened my programming skills by taking Data Structures and algorithms course.  I have proven expertise in Software / Full stack web development, micro-services, server-less computing and cloud applications.</p>
                                         </div>
                                     </div>
                                 </div>

@@ -16,7 +16,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/aws.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Billing and Invocing Web Services - AWS Deployment</a></h3>
+											<h3><a href="#">Billing and Invocing Web Services - AWS Deployment</a></h3>
 											<span>Technologies : Java, Spring Boot, Amazon S3, SQS, SNS, DynamoDB, Amazon RDS, EC2, CircleCI, AWS CodDeploy</span>
 											<p className="icon">
 												<span><a href="https://github.com/suthardhaval24/webapp"><i class="icon-github"></i></a></span>
@@ -29,7 +29,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/packer.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Amazon Machine Image</a></h3>
+											<h3><a href="#">Amazon Machine Image</a></h3>
 											<span>Technologies: Hashicorp Packer, Shell(Bash) Script, CircleCI, GIT </span>
 											<p className="icon">
 											<span><a href="https://github.com/suthardhaval24/ami"><i class="icon-github"></i></a></span>
@@ -42,7 +42,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/lamda.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Serverless Computing: AWS Lambda</a></h3>
+											<h3><a href="#">Serverless Computing: AWS Lambda</a></h3>
 											<span>Technologies: AWS Lambda, CircleCI, DynamoDB, Java, SQS, SNS</span>
 											<p className="icon">
 											<span><a href="https://github.com/suthardhaval24/serverless"><i class="icon-github"></i></a></span>
@@ -68,7 +68,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/spring.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Event Booking Portal</a></h3>
+											<h3><a href="#">Event Booking Portal</a></h3>
 											<span>Technologies: Spring MVC, Java, Hibernate, JDBC, MYSQL, HTML, CSS, JavaScript</span>
 											<p className="icon">
 											<span><a href="https://github.com/suthardhaval24/EventBookingSystem"><i class="icon-github"></i></a></span>
@@ -81,7 +81,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/music.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Music Mood Analyzer</a></h3>
+											<h3><a href="#">Music Mood Analyzer</a></h3>
 											<span>Technologies: Flask, REST APIs, Python, IBM NLP toolkit, Google Traslator APIs, Heroku, Docker</span>
 											<p className="icon">
 											<span><a href="https://github.com/suthardhaval24/MusicMoodAnalyzer"><i class="icon-github"></i></a></span>
