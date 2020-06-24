@@ -46,7 +46,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
-                                        <p>As a Software Engineer, I have good grasp over fundamental concepts of DSA with active participation in Leetcode contest and challaneges</p>
+                                        <p>As a Software Engineer, I have good grasp over fundamental concepts of DSA with active participation in Leetcode contest and challenges.</p>
                                     </div>
                                 </div>
                             </div>
